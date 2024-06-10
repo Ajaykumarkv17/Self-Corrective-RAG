@@ -1,1 +1,4 @@
-This  is a Self-Corrective RAG which Corrects the answer relevancy itself and it is Build using Langgraph
+This  is a Self-Corrective RAG which self-corrects the document context and generation answer relevancy itself and it is Build using Langgraph 
+
+
+
